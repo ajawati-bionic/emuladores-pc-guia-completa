@@ -158,6 +158,6 @@ en lugar de USB.
 
 ---
 
-*Pack de Emuladores para PC · Actualizado 2026-11-01 · Compartido bajo licencia MIT*
+*Pack de Emuladores para PC · Actualizado 2026-11-02 · Compartido bajo licencia MIT*
 
-<!-- last reviewed 2026-11-01 -->
+<!-- last reviewed 2026-11-02 -->
